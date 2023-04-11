@@ -1,9 +1,9 @@
 const fs = require('fs')
 const chalk = require('chalk')
 // EDIT DISINI
-global.owner = ['62xxxxxxxxx'] // nomer mu
-global.packname = '© Sticker By yusufadi_official' // nama pack sticker
-global.author = 'yusufadi_official'// nama author 
+global.owner = ['6283856618385'] // nomer mu
+global.packname = '©' // nama pack sticker
+global.author = 'wel'// nama author 
 
 
 let file = require.resolve(__filename)
